@@ -1,0 +1,46 @@
+[
+  {
+    "name": "How the Internet Works",
+    "period": "2025-09 to 2025-11 (evidenced)",
+    "modules": [
+      "ARPANET and telecom evolution",
+      "OSI/TCP-IP and devices",
+      "Linux kernel and process/memory/network layers",
+      "semiconductor/NIC/supply chains",
+      "institutions and government communication",
+      "evaluation methodology"
+    ],
+    "source_quality": "dated user-summary evidence"
+  },
+  {
+    "name": "Tern Firebase Studio AI Website",
+    "period": "2025-08 to 2025-09 (evidenced)",
+    "repository": "Tern-Computer/Firebase_Studio_AI_Website",
+    "packages": [
+      "api",
+      "common",
+      "simulator",
+      "tidal",
+      "web"
+    ],
+    "work_items": [
+      "WB-431 Carbon dashboard",
+      "WB-416 pricing toggle",
+      "WB-437 subscription thank-you",
+      "WB-438 downloads"
+    ],
+    "source_quality": "dated conversation summaries, no repository snapshot"
+  },
+  {
+    "name": "Linux and secure remote access",
+    "period": "2025-09 to 2025-10 (evidenced)",
+    "modules": [
+      "ssh vs sshd",
+      "TCP/22",
+      "client/server and daemon",
+      "kernel-level networking",
+      "storage networking"
+    ],
+    "source_quality": "dated assistant and user summaries"
+  }
+]

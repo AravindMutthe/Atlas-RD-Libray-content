@@ -1,0 +1,98 @@
+[
+  {
+    "date": "2025-09-27",
+    "title": "Enterprise systems and business administration",
+    "recovered_scope": "Telegraph and ledgers → mainframes/MRP → MRP II/ERP → cloud ERP/SaaS → post-ERP/AI. Compare management hierarchy, public regulation, storage, publishing, security, device exchange, business models and accounting.",
+    "atlas_destinations": "Governance; business processes; historical technology",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-09-27",
+    "title": "Network interfaces, identity and storage evolution",
+    "recovered_scope": "Physical switchboards and paper logs → punch cards and terminals → LAN/GUI → web administration → cloud consoles/APIs → Kubernetes/AI interfaces. Identity evolves from subscriber codes through IAM, API keys and workload identities.",
+    "atlas_destinations": "User interfaces; identity; storage; operating systems",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-09-28",
+    "title": "Network modularity and virtual front desk",
+    "recovered_scope": "Modular networks, module swapping, interoperability, control boundaries, public/private and free/paid networks; telegraph-era layers compared to virtual networks and a virtual front desk.",
+    "atlas_destinations": "Enterprise architecture; modularity; cloud; governance",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-09-28",
+    "title": "Business/network ownership from telegraph to AI",
+    "recovered_scope": "Investigate origins, ownership, intercompany relationships, governance, government regulators, finance, hardware suppliers and user-facing interfaces.",
+    "atlas_destinations": "Economic systems; regulation; infrastructure",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-09-29",
+    "title": "AI agents in business and network operations",
+    "recovered_scope": "Who develops, owns, sells and consumes AI network agents? Compare human operators, automated switching/routing, orchestration and adaptive AI optimization across eras.",
+    "atlas_destinations": "AI agents; operations; governance; telecommunications",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-10-01",
+    "title": "Hardware, business kernel and public oversight",
+    "recovered_scope": "For each era compare devices, capabilities, business kernel, legal entities, regulatory bodies, spectrum pricing, chip vendors, tenders and global supply chains.",
+    "atlas_destinations": "Semiconductors; procurement; telecom; supply chains",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-10-02",
+    "title": "Network family trees and Linux implementation",
+    "recovered_scope": "Telegraph, telephone, radio, TV, ARPANET, Internet, mobile, satellite, cloud, platform, IoT and AI networks. Connect physical systems to Linux tty, serial, drivers/net, TCP/IP, netfilter, Netlink, wireless, eBPF and accelerator subsystems.",
+    "atlas_destinations": "Communication history; Linux; networking",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-10-02",
+    "title": "Reverse engineering AI networks to telegraph",
+    "recovered_scope": "Trace routing, namespaces, NICs, security zones and economic/trade analogies backward from cloud/AI to early telecommunications; analogies are not literal equivalents.",
+    "atlas_destinations": "Linux networking; virtual networking; trade",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-10-02",
+    "title": "Open-source network-AI business integration",
+    "recovered_scope": "Connect telegraph/telecom/Internet/Web3/AI eras to practical AI-enabled services and product development, including business and government vocabulary.",
+    "atlas_destinations": "Applied enterprise architecture; AI services",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-10-03",
+    "title": "Pre-telegraph to 6G, quantum and AI",
+    "recovered_scope": "Cross-era mapping of presidents/governments, businesses, server/network/electricity/mining kernels, ownership, IPC, NICs, clients, regulators, science, industry, 5G/6G, quantum computing and AI.",
+    "atlas_destinations": "Cross-domain ontology; historical chronology",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-10-14",
+    "title": "Kernel branches as institutional analogy",
+    "recovered_scope": "Compare Linux kernel subsystems kernel/, mm/, fs/, net/, drivers/, security/, ipc/ with administrative departments and branches of government; clarify metaphor limits.",
+    "atlas_destinations": "Operating systems; governance analogies",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  },
+  {
+    "date": "2025-11-02",
+    "title": "ARPANET to AI-driven Internet research scope",
+    "recovered_scope": "DARPA/ARPANET, protocols, network devices, hardware, supply chains, operating systems and user ecosystems as a continuous research project.",
+    "atlas_destinations": "Internet history; systems architecture",
+    "evidence": "Prior-conversation contextual recovery; not verbatim transcript",
+    "status": "recovered thematic context; original chat export required"
+  }
+]

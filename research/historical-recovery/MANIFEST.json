@@ -1,0 +1,45 @@
+{
+  "archive_type": "repo-friendly evidence",
+  "files": [
+    {
+      "path": "atlas-timeline.md",
+      "size_bytes": 6634,
+      "sha256": "0e345dbf84a750f6b6f632f45b21f7f9f63fa6101228ea1fc822b10dbc721a25"
+    },
+    {
+      "path": "atlas-era-recovery-sep-oct-2025/ERA_CONVERSATION_RECOVERY.json",
+      "size_bytes": 6458,
+      "sha256": "0b44c62cdf0fb6d5c31c131fbe800522e506204772ec638e839fdaa4c7fcd8c6"
+    },
+    {
+      "path": "atlas-era-recovery-sep-oct-2025/ERA_TIMELINE_README.md",
+      "size_bytes": 6634,
+      "sha256": "0e345dbf84a750f6b6f632f45b21f7f9f63fa6101228ea1fc822b10dbc721a25"
+    },
+    {
+      "path": "chat-project-timeline-2025-08-2026-01-verified/DOWNLOAD_CHECK.txt",
+      "size_bytes": 75,
+      "sha256": "8013f8181609ca98719ac0e4487773c53d0c887e91bb0b62ad03ac6effc517eb"
+    },
+    {
+      "path": "chat-project-timeline-2025-08-2026-01-verified/JANUARY_2026_AND_CROSSCHECK.md",
+      "size_bytes": 2302,
+      "sha256": "9e8f8676fcee1029e6f52cef29b9c580e46effd591d5bb4cbf6983b81e65d092"
+    },
+    {
+      "path": "atlas-2025-aug-jan-integrated/HISTORICAL_EVIDENCE.csv",
+      "size_bytes": 4367,
+      "sha256": "bf475b20fa5538aac42d258fe027e1d621286dff282e65d153c08dbfbe1ea60a"
+    },
+    {
+      "path": "atlas-2025-aug-jan-integrated/ORIGINAL_EXPORT_README.md",
+      "size_bytes": 2046,
+      "sha256": "6686f9e433e7902ae67b1efdcfa6a9c91cce268d206c9117fa514bebe89f9971"
+    },
+    {
+      "path": "atlas-2025-aug-jan-integrated/TIMELINE_README.md",
+      "size_bytes": 1495,
+      "sha256": "462bd5209a6639b7179ce88396eaf0335b7b21786873689d82ebae9b9aacf3d0"
+    }
+  ]
+}

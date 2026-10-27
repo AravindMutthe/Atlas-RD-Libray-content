@@ -1,0 +1,106 @@
+[
+  {
+    "date_utc": "2025-08-28",
+    "conversation_topic": "IBM AI Agents interface",
+    "speaker": "user",
+    "available_evidence": "Working on desktop React/Tailwind project /home/user-aravind/Desktop/tern, component ibm_ai_agents.jsx; pasted full redesign code.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Frontend / interface architecture"
+  },
+  {
+    "date_utc": "2025-08-28",
+    "conversation_topic": "IBM AI Agents interface",
+    "speaker": "assistant",
+    "available_evidence": "Diagnosed extra closing div tags in footer; proposed replacement footer.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Frontend / interface architecture"
+  },
+  {
+    "date_utc": "2025-09-05",
+    "conversation_topic": "Full-stack architecture roadmap",
+    "speaker": "user",
+    "available_evidence": "Using Next.js and React.js; learning Figma/design-to-code, HTML/CSS, Tailwind, component libraries, Git, APIs/databases, deployment.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Web stack / systems integration"
+  },
+  {
+    "date_utc": "2025-09-06",
+    "conversation_topic": "Tern Carbon dashboard WB-431",
+    "speaker": "user",
+    "available_evidence": "WB-431: transform My Tern Dashboard to IBM Carbon preserving responsiveness, data logic, sorting, click handlers, navigation, branding and tables; run yarn build:common.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "UI systems / component architecture"
+  },
+  {
+    "date_utc": "2025-09-06",
+    "conversation_topic": "Tern Carbon dashboard WB-431",
+    "speaker": "assistant",
+    "available_evidence": "Suggested @carbon/react, @carbon/icons-react, @carbon/styles, sass; edit packages/web/src/app/my-tern/page.tsx, layout.tsx and globals.scss.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "UI systems / component architecture"
+  },
+  {
+    "date_utc": "2025-09-07",
+    "conversation_topic": "Tern repository workflows",
+    "speaker": "assistant",
+    "available_evidence": "origin=AravindMutthe/Firebase_Studio_AI_Website; upstream=Tern-Computer/Firebase_Studio_AI_Website; git fetch upstream; git checkout develop; git pull upstream develop.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Git / software supply chain"
+  },
+  {
+    "date_utc": "2025-09-07",
+    "conversation_topic": "Figma to implementation",
+    "speaker": "user",
+    "available_evidence": "Provided Figma JPEG and exported CSS/React JS to Cursor; repo TERN-Project/Firebase_Studio_AI_Website.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Design-to-code"
+  },
+  {
+    "date_utc": "2025-09-17",
+    "conversation_topic": "SSH protocol and daemon",
+    "speaker": "assistant",
+    "available_evidence": "ssh is client command; sshd is remote server daemon; SSH commonly runs over TCP port 22 with encrypted authentication and transport.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Networking / Linux"
+  },
+  {
+    "date_utc": "2025-09-25",
+    "conversation_topic": "Tern billing and repo workflows",
+    "speaker": "user",
+    "available_evidence": "Firebase_Studio_AI_Website; Jira WB-416; remotes, branches, pricing/billing, Stripe and Linux-server Git workflows.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Billing / software delivery"
+  },
+  {
+    "date_utc": "2025-10-05",
+    "conversation_topic": "Network and government systems",
+    "speaker": "user",
+    "available_evidence": "Kernel/network design, private cooperative networks, government communication paths, telegraph-to-TCP/IP history, storage/disk networks and root/admin-style systems thinking.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "History / governance / networking"
+  },
+  {
+    "date_utc": "2025-10-31",
+    "conversation_topic": "How Internet Works notebook",
+    "speaker": "user",
+    "available_evidence": "One surviving notebook from bachelor’s; studied computer technologies since 2015; developed understanding of networks over two months.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Research provenance"
+  },
+  {
+    "date_utc": "2025-11-02",
+    "conversation_topic": "Independent research timeline",
+    "speaker": "user",
+    "available_evidence": "Independent research began September 2025; How the Internet Works covers DARPA/ARPANET to AI-driven Internet, network devices, supply-chain markets, operating systems and user ecosystems.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Historical systems atlas"
+  },
+  {
+    "date_utc": "2025-11-03",
+    "conversation_topic": "Systems research methodology",
+    "speaker": "user",
+    "available_evidence": "Evaluating technology methods, outcomes and findings across Internet architecture, kernel subsystems, networks and systems; identifying industry problems solvable through software.",
+    "evidence_type": "context-derived description",
+    "atlas_destination": "Research methods"
+  }
+]

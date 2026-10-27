@@ -1,0 +1,106 @@
+[
+  {
+    "date": "2025-08-28",
+    "title": "Tern IBM AI Agents UI",
+    "evidence_type": "project + conversation summary",
+    "recoverable_content": "React/Tailwind component src/components/ibm_ai_agents.jsx: navigation, hero, features, use cases, CTA, footer. JSX compilation failed near line 226 due to mismatched closing tags; correction balanced footer structure.",
+    "atlas_mapping": "Frontend architecture; JSX syntax; component composition",
+    "limitations": "No full original transcript"
+  },
+  {
+    "date": "2025-09-02",
+    "title": "Tern internship communication",
+    "evidence_type": "email-derived summary",
+    "recoverable_content": "User contacted Adrian Fontanilla about internship after selection task, requested next steps and documentation.",
+    "atlas_mapping": "Project governance; onboarding",
+    "limitations": "Private employment communication omitted from Atlas narrative"
+  },
+  {
+    "date": "2025-09-03",
+    "title": "Tern project onboarding",
+    "evidence_type": "email-derived summary",
+    "recoverable_content": "Offer-letter exchange and project meeting invitation; private employment details excluded.",
+    "atlas_mapping": "Team workflow; development lifecycle",
+    "limitations": "No full email bodies exported"
+  },
+  {
+    "date": "2025-09-05",
+    "title": "Web engineering roadmap",
+    "evidence_type": "conversation summary",
+    "recoverable_content": "HTML/CSS/JS, React, Next.js, Tailwind, Node APIs, databases/Prisma, Git/GitHub/Jira, CI/CD, deployment and Figma.",
+    "atlas_mapping": "Software stack and delivery",
+    "limitations": "Summary only"
+  },
+  {
+    "date": "2025-09-06",
+    "title": "WB-431 IBM Carbon dashboard migration",
+    "evidence_type": "user constraint + conversation summary",
+    "recoverable_content": "Transform My Tern Dashboard to IBM Carbon Design System; light theme, Carbon tables/buttons/links/typography/footer, 16/8/4 responsive grid, preserve Tern branding and existing data, sorting, handlers and navigation. Monorepo packages api/common/simulator/tidal/web. Relevant files packages/web/src/app/layout.tsx, globals.scss, my-tern/page.tsx.",
+    "atlas_mapping": "Design systems; monorepo; separation of UI and logic",
+    "limitations": "Original Figma/CSS assets not retrieved"
+  },
+  {
+    "date": "2025-09-07",
+    "title": "Tern repository setup and runtime",
+    "evidence_type": "conversation summary",
+    "recoverable_content": "Tern-Computer/Firebase_Studio_AI_Website upstream; AravindMutthe fork origin; branch feature/WB-431-my-tern-carbon. Node 22.19.0, Yarn 1.22.22, missing react dependency and duplicate port flags observed. Suggested yarn install, yarn build:common, Carbon packages, dev server.",
+    "atlas_mapping": "Git remotes; dependency management; frontend runtime",
+    "limitations": "Commands reconstructed from conversation summary"
+  },
+  {
+    "date": "2025-09-07",
+    "title": "Cursor and Figma multi-file implementation",
+    "evidence_type": "user statement + summary",
+    "recoverable_content": "User supplied Figma JPEG, CSS and React/JS and wanted Cursor to edit layout.tsx, globals.scss and my-tern/page.tsx together, not page.tsx alone.",
+    "atlas_mapping": "AI-assisted coding; design-to-code quality assurance",
+    "limitations": "Source images/code not available"
+  },
+  {
+    "date": "2025-09-17",
+    "title": "SSH and sshd",
+    "evidence_type": "assistant-summary evidence",
+    "recoverable_content": "ssh is client executable; sshd server daemon; SSH protocol usually TCP port 22, encrypted channel, authentication and key exchange.",
+    "atlas_mapping": "OS process; TCP/IP; security",
+    "limitations": "Assistant summary, not raw transcript"
+  },
+  {
+    "date": "2025-09-25",
+    "title": "Tern branching and pricing task WB-416",
+    "evidence_type": "user statement + summary",
+    "recoverable_content": "Company upstream and personal fork origin; develop and feature branches. WB-416 monthly pricing load error, billing interval toggle, API interval=month|year, display /mo or /yr; possible overlap WB-439. WB-437 subscriptions thank-you, WB-438 downloads.",
+    "atlas_mapping": "Git branching; billing APIs; change management",
+    "limitations": "Not a verified code audit"
+  },
+  {
+    "date": "2025-10-05",
+    "title": "Kernel/network and communication infrastructure",
+    "evidence_type": "user statement summary",
+    "recoverable_content": "User described kernel-level network design, TCP/IP, storage/disk networks, government communication paths, telegraph-to-modern communication systems.",
+    "atlas_mapping": "Institution-to-network architecture; history of communications",
+    "limitations": "Visa discussion excluded as not core Atlas evidence"
+  },
+  {
+    "date": "2025-10-31",
+    "title": "How Internet Works notebook provenance",
+    "evidence_type": "user statement summary",
+    "recoverable_content": "Research began September 2025. One handwritten notebook covered about two months of network learning. User described continuous computer-technology study since 2015.",
+    "atlas_mapping": "Research provenance; historical timeline",
+    "limitations": "No exact notebook page-to-chat mapping"
+  },
+  {
+    "date": "2025-11-02",
+    "title": "How the Internet Works scope",
+    "evidence_type": "user statement summary",
+    "recoverable_content": "Independent academic/conceptual research: DARPA/ARPANET to AI-driven Internet, computing and communications, network devices, supply chains, OS, user ecosystems; no private network access.",
+    "atlas_mapping": "Internet history; systems engineering; supply chains",
+    "limitations": "No full transcript"
+  },
+  {
+    "date": "2025-11-03",
+    "title": "Technology evaluation and industry problems",
+    "evidence_type": "user statement summary",
+    "recoverable_content": "Research evaluates technology methods, outcomes, kernel subsystems, networks, and software-solvable problems across industries.",
+    "atlas_mapping": "Research methods; business-technical integration",
+    "limitations": "No full transcript"
+  }
+]
