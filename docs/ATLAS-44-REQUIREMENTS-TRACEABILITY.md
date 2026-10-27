@@ -5,6 +5,9 @@ content repo (`AravindMutthe/aravind-systems-atlas-content`). This file supersed
 status vocabulary of the dated snapshot `atlas-audit/traceability-matrix-2026-10-27.md`
 (same evidence, restated in the checklist's status vocabulary).
 **Last verified: 2026-10-27 ~12:50 IST.**
+**Canonical specification:** `docs/ARAVIND-SYSTEMS-ATLAS-V1-FINAL-MASTER-REQUIREMENTS.md`
+— this matrix is the implementation traceability report against that specification.
+No live website changes until approval (see the specification's Standing gates).
 
 Rule, enforced throughout: **a requirement is never marked complete because it appears
 in a document, a design mockup, or a preview.** Status reflects code, content, or
