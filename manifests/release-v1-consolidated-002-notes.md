@@ -91,3 +91,52 @@ images · 22 diagrams · 48 tables. The served website `/release.json` adds
 Vercel deployment ID is recorded in the release record accompanying this
 release, not embedded in the artifact (an artifact cannot contain its own
 deployment's ID).
+
+## Deployment record (added after production deployment; tag unchanged)
+
+- **Content tag:** `v1-consolidated-002` → commit
+  `2e6647e61e26e04eb2693943572e36152ed8fe72` (this tag target is unchanged
+  by this section; this section was added in a follow-up commit on the
+  release branch only).
+- **Website branch:** `feat/atlas-release-v1-consolidated-002`
+  (repository `AravindMutthe/aravind-systems-atlas`), commits
+  `97a8002c500898f8b96038c848a6ce82e62baa7b` (release displays +
+  ATLAS_V2_RELEASE constant + served manifest) and
+  `4f4b05eeb5f285ee46058690971d09b9a5fed440` (reader meta/footer, search
+  prose, search-index header). Both commits are release-metadata only; no
+  chapter text changed in either.
+- **Production deployment:** `dpl_DpsgjaB3Rm3WneMxmP7zs8K8Xq9j` (READY),
+  target production, Vercel project `prj_WjImgjWsR3ANU9p0x7YmWNGmwNEO`,
+  files API (260 files: 145 uploaded, 115 hash-deduped, 0 failed).
+  Public domain: https://aravind-systems-atlas.vercel.app
+- **Rollback:** `dpl_3aDyrYCB7MocBdbJsbmz2nxhHQFv` (preserved, not deleted).
+- **Build verification (final export, from branch tip):** typecheck exit 0;
+  build exit 0; clearance PASS (260 files, 8 classes clean); sitemap 67;
+  57/57 chapter slugs; forbidden outputs absent; JS MAX 152,950 B
+  (149.4 KB) WITHIN the ~150 KB target; export scan PASS (all 81 new texts
+  present in chapter HTML, zero old texts in any carrier, old digest only
+  in /release.json as the metadata-entries field).
+- **Live verification (public domain, fresh fetches):** hub 200 with
+  release v1-consolidated-002 and corrected packet/VM wordings; library 200
+  with all 57 chapters in 5 domain sections (7/10/20/9/11); system-explorer
+  200 with PCI-specific and gateway-bound wordings; chapter page
+  (communication-trade-the-first-networks) 200 with "Content release
+  v1-consolidated-002" and corrected G-01 + eleven wordings; /release.json
+  field-by-field verified (contentRelease v1-consolidated-002, digest
+  c60d28fd…, parent edition v1-consolidated-001, separated fields);
+  sitemap 67 URLs (10 static + 57 chapters).
+- **Known intentional v1-consolidated-001 mentions remaining on the live
+  site (provenance, not release identity):** library grouping sentence
+  ("grouped here by the verified master domains from release
+  v1-consolidated-001" — the grouping is unchanged in v2, so the attribution
+  remains true); about methodology prose citing the v1 manifest's
+  paragraph accounting (unchanged figures); /release.json parent-edition
+  and metadata-entries fields. All release badges and the manifest itself
+  read v1-consolidated-002.
+- **Deployment identity note:** the Vercel deployment ID cannot be embedded
+  in the artifact it deploys (self-reference impossibility); it is recorded
+  here and in the release record instead, bound to the content tag, content
+  commit, website commits, and the deployed /release.json digest above.
+- **Still owed after this release:** D15 owner iPhone acceptance (now
+  post-deploy acceptance, at the owner's word); all other D-decisions
+  (D1–D14) remain open and untouched by this release.
